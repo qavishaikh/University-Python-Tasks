@@ -26,3 +26,7 @@ for index,value in enumerate(list3):
         list3[index] = "Q"
 print(list3)
 
+print("\n Example 5 ")
+list4 = [1,2,3,4,5]
+list4 = [66 if item == 3 else item for item in list4]
+print(list4)
