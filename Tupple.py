@@ -9,7 +9,6 @@ for x in my_tuple:
 second = my_tuple[1]
 print(second)
 
-# Create a tuple named coordinates representing (x, y, z) coordinates
 coordinates = (3.5, 2.0, -1.5)
 
 # Print the tuple

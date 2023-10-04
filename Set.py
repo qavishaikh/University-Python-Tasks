@@ -38,7 +38,7 @@ print("Symmetric Difference:", symmetric_diff)
 
 
 # Define two sets, A and B
-A = {1, 2}
+A = {1, 2, 3}
 B = {'a', 'b', 'c'}
 
 # Compute the Cartesian product using a list comprehension
