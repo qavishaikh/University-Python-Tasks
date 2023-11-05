@@ -1,6 +1,6 @@
-# def add(a,*b):
-#  print(a,b)
-# add(2,4,7)
+def add(a,*b):
+ print(a,b)
+add(2,4,7)
 
 # def user_input_to_dictionary():
 #     user_dict = {}
@@ -18,11 +18,11 @@
 
 
 
-# def user(**a):
-#     a = int(input("Enter a Number"))
-#     print(a)
+def user(**a):
+    a = int(input("Enter a Number"))
+    print(a)
 
-# user()
+user()
 
 # def my_function(food):
 #   for x in food:
